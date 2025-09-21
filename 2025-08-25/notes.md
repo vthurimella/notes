@@ -1,0 +1,1 @@
+Updated hsc-14 nvidia driver to Driver Version: 580.65.06. That enabled me to performance metrics off the GPU 
